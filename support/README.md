@@ -4,7 +4,7 @@
 
 As a Support Engineer, your role may require you to access and manipulate production data and integrations to help
 customers leverage the Zipline platform. As you may be working with live data (and the work we do impacts hundreds of
-thousands of retail workers!), these manipulations need to be _extremely_ accurate. We don't want customers losing data
+thousands of retail workers!), you need to be _extremely_ precise. We don't want customers losing data
 or being adversely impacted by these manipulations!
 
 In this exercise, you will be provided with a list of user accounts. For convenience, in the context of this assignment,
