@@ -13,9 +13,9 @@ this list is provided as a CSV file.
 **Your job: Identify potential duplicates among this list of users!**
 
 However, customers can have differing requirements as to what constitutes a 'potential duplicate': for some customers,
-identical email addresses or phone numbers identify duplicate users - but some may reuse email addresses across
+identical email addresses or phone numbers constitute duplicate users - but others may reuse email addresses across
 employees, only have one phone number for all employees at a given store, and so on! This requires you to be
-flexible and account for all of these potential cases.
+flexible to meet the customer's requirements.
 
 ## Guidelines
 
