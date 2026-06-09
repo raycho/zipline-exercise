@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "jq -r '\"## \" + (now | strftime(\"%Y-%m-%dT%H:%M:%S\")) + \"\\n\\n**Prompt:** \" + .prompt + \"\\n\"' >> /Users/raycho/Projects/hiring-exercises/grouping/RACHEL.md 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}
