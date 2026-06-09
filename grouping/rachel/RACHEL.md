@@ -27,3 +27,9 @@
 **Prompt 12:** include in SOLUTION.md the changes that were made in this session
 
 **Prompt 13:** in RACHEL.md rewrite the whole file and list out all prompts used during the session
+
+**Prompt 14:** move all generated files into a folder called rachel
+
+**Prompt 15:** create a README in the rachel folder to describe the solution and how to use it
+
+**Prompt 16:** update the final prompts in RACHEL.md
